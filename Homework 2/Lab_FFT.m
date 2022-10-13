@@ -6,7 +6,7 @@ format compact
 
 fi = 10;      %input frequency (Hz)
 N = 256;      %Number of sample points
-fs = 64;      %sampling frequency (Hz)
+fs = 20;      %sampling frequency (Hz)
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 dt=1/fs     %time between data points  
